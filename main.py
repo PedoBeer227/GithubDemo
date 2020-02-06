@@ -4,6 +4,7 @@ def LevelOne():
   pass
 def LevelTwo():
   pass
+#yeet skeet
 
 StartScherm()
 LevelOne()
